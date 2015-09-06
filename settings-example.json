@@ -1,0 +1,11 @@
+{
+  "public" : {
+    "ga": {
+      "id":"GA ID"
+    }
+  },
+  "kadira": {
+     "appId": "Kadira App ID",
+     "appSecret": "Kadira App Secret"
+  }
+}
